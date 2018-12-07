@@ -8,10 +8,10 @@ highlighter: rouge
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : simple site
-author :
-  name : nb
-  email : nina@aviva-berlin.de
+title : 
+author : 
+  name : nina breher
+  email : nbreherni@cms.hu-berlin.de
   github : nportfolio
 
 # NOTE: Replacing this next line with your own URL
