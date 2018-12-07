@@ -7,7 +7,7 @@ description: portfolio
 
 **Text examples in English:**
 
-- ["A Map of Jewish History"](LINK): Text about the Jewish Museum Berlin's platform [Jewish Places](https://www.jewish-places.de/), an interactive map depicting Jewish life in Germany  
+- ["A Map of Jewish History"](/texts/JMB_Journal_Jewish_Places.pdf): Text about the Jewish Museum Berlin's platform [Jewish Places](https://www.jewish-places.de/), an interactive map depicting Jewish life in Germany  
 - ["Jerusalem is like a former boyfriend"](https://www.jmberlin.de/blog-en/2018/02/jerusalem-is-like-a-former-boyfriend/): Interview with Dalia Castel and Orit Nahmias
 
 **Text examples in German:**
@@ -28,9 +28,9 @@ description: portfolio
 
 **Contact**
 
-Nina Breher</br>
-Hermannstr. 41</br>
-12049 Berlin</br>
-Germany</br>
-Email: breherni@cms.hu-berlin.de</br>
-CV: [CV](/documents/cv.pdf]
+Nina Breher  
+Hermannstr. 41  
+12049 Berlin  
+Germany  
+Email: breherni@cms.hu-berlin.de  
+CV: [CV](/documents/cv.pdf)
