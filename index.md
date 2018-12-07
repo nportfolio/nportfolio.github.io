@@ -33,4 +33,4 @@ Hermannstr. 41
 12049 Berlin  
 Germany  
 Email: breherni@cms.hu-berlin.de  
-CV: [CV](/documents/cv.pdf)
+[CV](/documents/cv.pdf)
