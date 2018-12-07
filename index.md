@@ -21,11 +21,11 @@ description: portfolio
 **Examples of visual/programming work:**
 - [Google Maps Location History Plotter](https://github.com/chaseinstead/google-maps-plot-on-worldmap): Program that fetches and visualizes data collected by Google Maps
 - [Conway's Game of Life](https://github.com/chaseinstead/conway-s-game-of-life): A simple Python implementation of [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
-- [Wikipedia Game](https://github.com/chaseinstead/google-maps-plot-on-worldmap): Webscraper that automatically finds the shortest connection between any two Wikipedia pages
+- [Wikipedia Game](https://github.com/chaseinstead/google-maps-plot-on-worldmap): Webscraper that finds the shortest connection between any two Wikipedia pages
 
 
 ---
 
 **Contact**
 
-Email: breherni@cms.hu-berlin.de  
+Email: breherni@cms.hu-berlin.de
