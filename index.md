@@ -29,9 +29,13 @@ Examples of visual/programming work:
 ---
 
 contact
+
 Nina Breher
+
 Hermannstr. 41
+
 12049 Berlin
+
 Germany
 
 Email: breherni@cms.hu-berlin.de
