@@ -1,6 +1,6 @@
 ---
 layout: page
-title: nina breher
+title: nina b.
 tagline: examples of text and visual work
 description: portfolio
 ---
