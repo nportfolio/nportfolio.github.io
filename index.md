@@ -26,6 +26,3 @@ description: portfolio
 
 ---
 
-**Contact**
-
-Email: breherni@cms.hu-berlin.de
