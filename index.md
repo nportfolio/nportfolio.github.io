@@ -13,9 +13,9 @@ description: portfolio
 **Text examples in German:**
 - ["Flüchtlinge fressen" (pdf)](/texts/ZPS_Hintergrundbericht_Fluechtlinge_fressen.pdf): Background report on the Center for Political Beauty's political performance artwork (book chapter in ["Haltung als Handlung. Das Zentrum für Politische Schönheit"](http://editionmetzel.de/buecher/haltung-als-handlung-das-zentrum-fuer-politische-schoenheit.html))
 - ["Studieren im Gefängnis" (pdf)](/texts/UnAuf_Studieren_im_Gefaengnis.pdf): Report about studying as a prisoner with day-release
-- ["Walter Benjamins Übersetzungsästhetik" (pdf)](ZfGerm_Benjamin.pdf): Scientific book review
+- ["Walter Benjamins Übersetzungsästhetik" (pdf)](/texts/ZfGerm_Benjamin.pdf): Scientific book review
 - ["Finanzielles Kammerflimmern" (pdf)](/texts/UnAuf_Medizinhistorisches_Museum.pdf): Coverage of the financial crisis of Berlin's Medical History Museum
-- ["Kampf um jedes Blatt" (pdf)](UnAuf_Elsevier.pdf): Article on how high journal prices threaten to change research at Berlin's universities
+- ["Kampf um jedes Blatt" (pdf)]/texts/(UnAuf_Elsevier.pdf): Article on how high journal prices threaten to change research at Berlin's universities
 - ["Journalist 2020 - Ein digitaler Einzelkämpfer?"](http://www.unauf.de/2013/2512/): Congress report
 
 **Examples of visual/programming work:**
