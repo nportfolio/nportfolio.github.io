@@ -19,6 +19,6 @@ description: portfolio
 
 
 **Programmierbeispiele in Python:**
-- [Google Maps Location History Plotter](https://github.com/chaseinstead/google-maps-plot-on-worldmap): Programm, das von Google gesammelte Standortdaten organisiert und visualisiert
+- [Location History Visualizer](https://github.com/chaseinstead/location-history-visualizer): Einfaches Kommandozeilenprogramm, das von Google gesammelte Standortdaten organisiert und visualisiert
 - [Wikipedia Game](https://github.com/chaseinstead/wikipedia-game): Webscraper, der den kürzesten Pfad zwischen zwei beliebigen Wikipedia-Seiten findet
 - [Conway's Game of Life](https://github.com/chaseinstead/conway-s-game-of-life): Einfache Python-Version von [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
